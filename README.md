@@ -17,7 +17,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🤳 Connect With Me
 
 
-[<img align="left" alt="MohamedJanneh_ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][[LinkedIn Profile](https://www.linkedin.com/in/mojan638)
+[<img align="left" alt="MohamedJanneh_ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][[LinkedIn Profile](https://www.linkedin.com/in/mojan638)]
 
 
 
