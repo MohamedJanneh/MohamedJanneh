@@ -14,15 +14,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
-## 🤳 Connect With Me
+## 🔗 Connect With Me
 
+<a href="https://www.linkedin.com/in/mojan638" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" />
+</a>
 
-[<img align="left" alt="MohamedJanneh_ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][[LinkedIn Profile](https://www.linkedin.com/in/mojan638)]
-
-
-
-
-[linkedin]: www.linkedin.com/in/mojan638
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
